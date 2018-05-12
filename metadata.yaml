@@ -1,0 +1,29 @@
+_repo: A-Ioyfull-medytacyon-to-all-Englonde-of-the-coronacyon-of-our-moost-naturall-souerayne-lorde-__22261
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Hawes, Stephen
+    deathdate: 1523
+    gutenberg_agent_id: '25220'
+    url: http://www.gutenberg.org/2009/agents/25220
+description: ''
+gutenberg_bookshelf: United Kingdom
+gutenberg_issued: '2007-08-07'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '22261'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PR'
+- !lcsh 'Poetry'
+title: 'A Ioyfull medytacyon to all Englonde of the coronacyon of our moost naturall
+  souerayne lorde kynge Henry the eyght
+
+  (A Joyful Meditation of the Coronation of King Henry the Eighth)'
+url: http://www.gutenberg.org/ebooks/22261
